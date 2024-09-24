@@ -87,7 +87,7 @@ function App() {
           id='numInput'
           onChange={()=> {setNumAllow((prev) => !prev)} }
           />
-          <label>Number</label>
+          <label>Numbder</label>
         </div>
 
         <div className="flex items-center gap-x-1">
